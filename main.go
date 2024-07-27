@@ -48,5 +48,3 @@ func main() {
 		fmt.Printf("The first names of bookings are: %v\n", firstNames)
 	}
 }
-
-// Karen pushis maini omg
